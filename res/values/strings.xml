@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Traduction</string>
+    <string name="bonjour">Entrer du Texte</string>
+    <string name="btnText">Traduire</string>
+
+</resources>
